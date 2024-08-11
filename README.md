@@ -47,7 +47,13 @@ I am a passionate **AI and Machine Learning** researcher and developer, currentl
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer-Ahmed7/Sameer-Ahmed7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer-Ahmed7/Sameer-Ahmed7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sameer-Ahmed7/Sameer-Ahmed7/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
 
 
 
