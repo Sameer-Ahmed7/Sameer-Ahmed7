@@ -8,30 +8,33 @@
 
 ## 🌟 About Me
 
-I am a passionate **AI and Machine Learning** researcher and developer, currently pursuing my **Master's degree** in **Artificial Intelligence** at **Sapienza University of Rome**. Where I’m working on advancing the field of AI through innovative projects and research.
+I am a passionate AI & Machine Learning Engineer, currently pursuing my Master’s in Artificial Intelligence & Robotics at Sapienza University of Rome. With expertise in LLM Fine-Tuning, NLP, Generative AI, and Computer Vision, I specialize in building scalable AI systems and deploying state-of-the-art AI solutions.
 
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** Python, C++, Matlab
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Keras
+- **Programming Languages:** Python, SQL, LaTeX, Linux
+- **AI/ML Frameworks:** PyTorch, TensorFlow, LangChain, OpenAI API, Unsloth
+- **Generative AI & LLMs:** Fine-Tuning (LoRA, QLoRA, PEFT), RAG, Model Evaluation, AI Quality Assurance
+- **Data Science & ML:** NLP, Data Preprocessing, Anomaly Detection, GANs, Data Visualization, Fact-Checking
+- **AI Model Deployment:** Docker, SQLAlchemy, FastAPI
 - **AI Planning Tools:** PDDL
-- **Tools:** Git, Docker, Jupyter, Google Cloud, AWS
-- **Data Science:** Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib
-- **Operating Systems:** Linux, Windows
+- **Embedded Systems:** Raspberry Pi, Arduino, ESP32
+- **Tools & Platforms:** Git, PostgreSQL, Grafana, LambdaLabs, Colab Pro
 
 
-## 🧠 Current Projects
-- **[Waste Collection Optimization](https://github.com/Sameer-Ahmed7/Waste-Management-Planning):** Developed a system for optimizing waste collection routes using PDDL classical planning, minimizing operational costs and environmental impact.
-- **[Wasserstein CycleGAN](https://github.com/Sameer-Ahmed7/Wasserstein-CycleGAN):** Enhanced the CycleGAN model by integrating the Wasserstein distance to improve image-to-image translation tasks.
-- **[Anomaly Detection on FashionMNIST](https://github.com/Sameer-Ahmed7/Anomaly-Detection-on-FashionMNIST):** Implemented advanced machine learning techniques to identify and classify anomalous data points in the FashionMNIST dataset.
-- **[Coarse-Grained Word Sense Disambiguation](https://github.com/Sameer-Ahmed7/Coarse-Grained-WSD):** Developed a system to accurately determine the sense of a word in context using machine learning techniques.
-- **[Event Detection](https://github.com/Sameer-Ahmed7/Event-Detection):** Built an event detection system using NLP techniques to identify and categorize significant events in real-time.
+## 🚀 Notable Projects & Research
+- ✅ **AI-Powered Chatbot for the Italian Government** – Built using LangChain, OpenAI API, and NLP techniques for structured and unstructured data processing.
+- ✅ **[EEG Signal Reconstruction using CycleGAN](https://github.com/Sameer-Ahmed7/EEG-Signal-Reconstruction-CycleGAN)** – Published research paper showcasing GANs for biomedical AI.
+- ✅ **[Coarse-Grained Word Sense Disambiguation (WSD)](https://github.com/Sameer-Ahmed7/Coarse-Grained-WSD):** – Developed a ML-based NLP model for context-aware word sense disambiguation.
+- ✅ **[Event Detection using NLP](https://github.com/Sameer-Ahmed7/Event-Detection):** – Built a real-time event detection system for financial monitoring and social media trend analysis.
+- ✅ **[Anomaly Detection on FashionMNIST](https://github.com/Sameer-Ahmed7/Anomaly-Detection-on-FashionMNIST):**  – Developed ML models to identify outliers for quality control & fraud detection.
+- ✅ **[Wasserstein CycleGAN for Image Translation](https://github.com/Sameer-Ahmed7/Wasserstein-CycleGAN)** – Enhanced CycleGAN with Wasserstein distance for superior image-to-image translation.
 
-## 🏆 Certifications & Achievements
-- **Google Cloud:** Cloud Seekho Season 3 & 2
-- **Udacity:** Programming for Data Science with Python, Deep Learning Nanodegree
-- **Cisco:** Programming Essentials in Python
-- **Coursera:** AI for Everyone
+
+## 🏆 Honors & Awards
+- 🏅 **Selected among 11 fellows from 300+ global applicants (Top 5%)** (2025)
+- 🏅 **ICTIS 2024**– Published research on EEG Signal Reconstruction
+- 🏅 **IGNITE Pakistan Grant** – Funded project on Real-Time Sign Language Translator
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -40,7 +43,9 @@ I am a passionate **AI and Machine Learning** researcher and developer, currentl
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> Let's Connect
-
+- 💡 Exploring opportunities in NLP, Generative AI, and AI Research.
+- 🔍 Check out my GitHub, and LinkedIn for open-source AI projects.
+- 🚀 Let’s innovate with AI! 🔗
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-ahmed-41b4b81aa/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>  <a href="https://github.com/Sameer-Ahmed7"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"></a> </a>  
 </div>
