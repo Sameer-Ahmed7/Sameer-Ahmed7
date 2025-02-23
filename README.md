@@ -1,9 +1,16 @@
+<!--
 <div align="center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"> Hello, I'm Sameer Ahmed &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 ![Header Image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863)
 </div>
+-->
+![Github banner](https://github.com/user-attachments/assets/a250dea9-2637-47df-b160-bb74b58e6a38)
+
+
+
+
 
 
 ## 🌟 About Me
