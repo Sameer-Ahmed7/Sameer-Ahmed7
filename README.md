@@ -23,6 +23,7 @@ I am a passionate AI & Machine Learning Engineer, currently pursuing my Masterâ€
 - **AI/ML Frameworks:** PyTorch, TensorFlow, LangChain, OpenAI API, Unsloth
 - **Generative AI & LLMs:** Fine-Tuning (LoRA, QLoRA, PEFT), RAG, Model Evaluation, AI Quality Assurance
 - **Data Science & ML:** NLP, Data Preprocessing, Anomaly Detection, GANs, Data Visualization, Fact-Checking
+- **Cloud Computing**: GCP, LambdaLabs, Colab Pro, Docker, Git, Linux
 - **AI Model Deployment:** Docker, SQLAlchemy, FastAPI
 - **AI Planning Tools:** PDDL
 - **Embedded Systems:** Raspberry Pi, Arduino, ESP32
